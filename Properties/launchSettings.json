@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KafkaProducerConsumer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
